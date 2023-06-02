@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 eho "School"
+=======
+eho "The school is open!"
+>>>>>>> update_script
